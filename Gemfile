@@ -30,7 +30,7 @@ gem 'jbuilder', '~> 1.2'
 
 group :test, :development do 
   gem 'capybara'
-  gem 'rspect-rails'
+  gem 'rspec-rails'
  end 
 
 group :doc do
