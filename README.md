@@ -6,6 +6,8 @@ The task in this chapter was to build static pages for home, help and, about.
 
 The task can be found [here](http://railstutorial.org/) in the third chapter.
 
+(Week 8)
+
 ## 
 
 ### Static Home Page
@@ -18,6 +20,6 @@ The task can be found [here](http://railstutorial.org/) in the third chapter.
 ![screenshot](app/assets/images/about.png)
 
 
-##Stack:
+##Technologies Used
 - Ruby
 - Ruby on Rails
